@@ -1,0 +1,1 @@
+Student count: 500
